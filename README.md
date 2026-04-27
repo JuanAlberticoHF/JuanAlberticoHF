@@ -1,12 +1,13 @@
-Bienvenido/a, aquí Juan Alberto, desarrollador de aplicaciones. 😄🦾
+Bienvenido/a, aquí Juan Alberto, desarrollador de aplicaciones. ✨🦾
 
-Soy técnico en desarrollo de aplicaciones multiplataforma (DAM) , estudiante de CFGS DAW 🎓, especializándome sobre el ecosistema de Spring y Spring Boot de forma autodidacta y en continuo aprendizaje mejorando mis habilidades. 📌
+- 🎓😄 **Sobre mi**: Soy técnico en desarrollo de aplicaciones multiplataforma (DAM) , estudiante de CFGS DAW, especializándome sobre el ecosistema de Spring y Spring Boot de forma autodidacta y en continuo aprendizaje mejorando mis habilidades. 
 
-- ⭐💪**Tecnologias principales**: `Java/Spring Boot, MySQL, Kotlin/Compose, Git/GitHub, Docker.`
+- ⭐💪 **Tecnologias principales**: `Java/Spring Boot, MySQL, Kotlin/Compose, Git/GitHub, Docker.`
 - 📅🧠 **Organización/Conocimiento**: `Notion/Obsidian.`
-- 👍📃 **Otras tecnologias**: `Flutter/Dart, FireBase, MongoDB, HTML, CSS, JavaScript, Vue.js, Python, Node.js.`
+- 📍👍 **Otras tecnologias**: `Flutter/Dart, FireBase, MongoDB, HTML, CSS, JavaScript, Vue.js, Python, Node.js.`
 
-Actualmente estoy centrado en el aprendizaje de desarrollo de APIs RESTful con Spring Boot que incluye: persistencia con MySQL, Spring Data JPA, documentación con Swagger UI, contenedores con Docker, metodología GitFlow, pruebas con JUnit y Mockito, recientemente implementando Spring Security/JWT. ⚡⚡⚡
+- 🌱🤔 **Actualidad**: Centrado en el aprendizaje de desarrollo de APIs RESTful con Spring Boot que incluye: persistencia con MySQL, Spring Data JPA, documentación con Swagger UI, contenedores con Docker, metodología GitFlow, pruebas con JUnit y Mockito, recientemente implementando Spring Security/JWT.
+- 🔭🤯 **Proximamente**: Diseño y desarrollo del backend de mi proyecto TFG con tematica e-commerce.
 
 <!--
 **JuanAlberticoHF/JuanAlberticoHF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
