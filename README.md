@@ -1,6 +1,6 @@
 Bienvenido/a, aquí Juan Alberto, desarrollador de aplicaciones. ✨🦾
 
-- 🎓😄 **Sobre mi**: Soy técnico en desarrollo de aplicaciones multiplataforma (DAM) , estudiante de CFGS DAW, especializándome sobre el ecosistema de Spring y Spring Boot de forma autodidacta y en continuo aprendizaje mejorando mis habilidades. 
+- 🎓😄 **Sobre mi**: Soy técnico en desarrollo de aplicaciones multiplataforma (DAM) , cursando FPGS DAW, especializándome sobre el ecosistema de Spring y Spring Boot de forma autodidacta y en continuo aprendizaje mejorando mis habilidades. 
 - ⭐💪 **Tecnologias principales**: `Java/Spring Boot, MySQL, Kotlin/Compose, Git/GitHub, Docker.`
 - 📅🧠 **Organización/Conocimiento**: `Notion/Obsidian.`
 - 📍👍 **Otras tecnologias**: `Flutter/Dart, FireBase, MongoDB, HTML, CSS, JavaScript, Vue.js, Python, Node.js.`
