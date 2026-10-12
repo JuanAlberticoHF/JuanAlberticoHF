@@ -1,9 +1,9 @@
 Bienvenido/a, aquí Juan Alberto, desarrollador de aplicaciones. ✨🦾
 
 - 🎓😄 **Sobre mi**: Soy técnico en desarrollo de aplicaciones multiplataforma (DAM) , cursando FPGS DAW, especializándome sobre el ecosistema de Spring y Spring Boot de forma autodidacta y en continuo aprendizaje mejorando mis habilidades. 
-- ⭐💪 **Tecnologias principales**: `Java/Spring Boot, MySQL, Git/GitHub, Docker, Kotlin/Compose.`
+- ⭐💪 **Tecnologias principales**: `Java/Spring Boot, MySQL, Git/GitHub, Docker`
 - 📅🧠 **Organización/Conocimiento**: `Notion/Obsidian.` 
-- 📍👍 **Otras tecnologias**: `Flutter/Dart, FireBase, MongoDB, HTML, CSS, JavaScript, Python, Node.js.`
+- 📍👍 **Otras tecnologias**: `Kotlin/Compose, Flutter/Dart, FireBase, MongoDB, HTML, CSS, JavaScript, Python, Node.js.`
 - 🥇🛒 **Proyecto destacado**: [Funkomania Backend](https://github.com/JuanAlberticoHF/funkomania-backend). E-commerce de Funkos que me permitio aprender Spring Security, JWT, documentación con Swagger UI, contenedores con Docker, aplicar metodología GitFlow.
 - 🌱🤔 **Actualidad**: Centrado en el aprendizaje de Thymeleaf para el desarrollo de un proyecto de aplicación web con Spring Boot, reorganizando mi espacio de trabajo en Notion, practicando nuevas tecnologias y planeando nuevos proyectos.
 - 🔭🤯 **Próximamente**: Desarrollo de un proyecto aplicación web con Spring Boot + Thymeleaf, mi portafolio en GitHub y mejorar en QA.
